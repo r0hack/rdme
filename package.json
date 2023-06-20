@@ -45,7 +45,7 @@
     "read": "^1.0.7",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.5",
-    "semver": "^7.0.0",
+    "semver": "^7.5.2",
     "table-layout": "^1.0.0"
   },
   "devDependencies": {
